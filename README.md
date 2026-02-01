@@ -1,4 +1,4 @@
-# Digital-Goniometer-with-Arduino-and-MATLAB
+# Digital Goniometer
 A digital goniometer project using Arduino and MATLAB to measure joint angles, calculate angular velocity and acceleration and display real-time data.
 
 ## Features
